@@ -4,7 +4,7 @@
 - To deposit balance
 
 ## State of art/ Research
-
+Now a days the people are not intrested in wasting time and due to covid they are not intrested to go to bank for money in thise case we use atm these atm Automated teller machines (ATMs) have altered the relationship between banks and their depositors, as well as the competitive relationships among banks. Which help the people to get money instant in there locality.
 ## 4 W's and 1H
 ### Who
 People to who need monwy

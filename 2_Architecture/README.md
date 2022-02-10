@@ -2,7 +2,7 @@
 ![umlhigh](https://user-images.githubusercontent.com/68550769/153440276-f2c6a1cb-bcc4-4a94-b64c-d87bb9ae4ac9.png)
 
 ## HIGH LEVEL FLOWCHART
-![atm flow chart](https://user-images.githubusercontent.com/68550769/153440410-20d9a1d9-37ff-481d-a82c-ebb289e90024.png)
+![high flow](https://user-images.githubusercontent.com/68550769/153441829-f80553a4-c228-4c68-b872-a4b210686dc9.png)
 
 ## LOW LEVEL UML
 ![uml low level](https://user-images.githubusercontent.com/68550769/153440484-d1b58fc4-0cdb-4c55-a168-a2d60accafbb.png)

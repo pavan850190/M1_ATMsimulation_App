@@ -6,15 +6,15 @@
 ## State of art/ Research
 
 ## 4 W's and 1H
-# Who
+### Who
 People to who need monwy
-# When
+### When
 when the people required money and save time.
-# What
+### What
 Verifying the the account details and add/subtract money.
-# Where
+### Where
 Around many places in town.
-# How
+### How
 Geting money after inserting atm card and entering pin.
 
 ## High Level Requirements

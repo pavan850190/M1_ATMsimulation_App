@@ -19,6 +19,9 @@ Verifying the the account details and add/subtract money.
 Around many places in town.
 ### How
 Geting money after inserting atm card and entering pin.
+## SWOT
+![swot](https://user-images.githubusercontent.com/68550769/153435609-9a1ecdd5-6e61-4c4c-bf72-8b1c5915a0e4.jpg)
+
 
 ## High Level Requirements
 1. A customer must be able to make a cash withdrawal from any suitable account linked to the card, in multiples of 100.
@@ -36,5 +39,5 @@ Geting money after inserting atm card and entering pin.
 - Used loops to exicute the commands one bye one and follow the flow.
 - Printf statements have been placed only wherever necessary to avoid confusions
 - Created header file so that the fuctions can be used else where ever required without any difficulty
-![101d47e1c38a3a871e1de337062168f6](https://user-images.githubusercontent.com/68550769/153432729-a9e83c5d-bce3-4108-a722-2ca3849e3464.jpg)
+
 

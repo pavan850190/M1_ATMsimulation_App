@@ -36,4 +36,5 @@ Geting money after inserting atm card and entering pin.
 - Used loops to exicute the commands one bye one and follow the flow.
 - Printf statements have been placed only wherever necessary to avoid confusions
 - Created header file so that the fuctions can be used else where ever required without any difficulty
+![101d47e1c38a3a871e1de337062168f6](https://user-images.githubusercontent.com/68550769/153432729-a9e83c5d-bce3-4108-a722-2ca3849e3464.jpg)
 

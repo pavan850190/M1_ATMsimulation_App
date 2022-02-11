@@ -43,7 +43,7 @@ int main(){
    }
    else if(option == 3)          // function for withdraw
    {
-       balance = moneyWithdraw(balance);
+       balance = moneyWithdraw(balance); //
    }
    else if(option == 4)
    {

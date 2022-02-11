@@ -1,6 +1,6 @@
 #include<stdio.h>  //default header file
 #include"deposit.c"  // header file of deposit
-#include"withdraw.h"  // header file of withdraw
+#include"withdraw.c"  // header file of withdraw
 #include"pinc.c"     // header file for newpin
 
 

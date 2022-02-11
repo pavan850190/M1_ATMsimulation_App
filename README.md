@@ -12,7 +12,7 @@
 
 ![codeiga](https://user-images.githubusercontent.com/68550769/153591820-0cc5a53d-2ff3-48cb-bd63-c7c8927c5aa6.jpg)
 
-#Input
+# Input
 
 - the default blance is 10000
 - we get pin from users and get access to card we use any default four digit pin for every user

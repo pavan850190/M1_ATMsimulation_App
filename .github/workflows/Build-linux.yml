@@ -1,5 +1,4 @@
-name: C/C++ CI
-
+name: Build-linux
 on:
   push:
     branches: [ main ]
@@ -13,5 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: configure
+      run: ./configure
     - name: make
-      run: /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation
+      run: make Run -c 3_Implementation

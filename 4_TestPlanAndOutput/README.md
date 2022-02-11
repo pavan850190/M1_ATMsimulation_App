@@ -1,3 +1,18 @@
+# Test Plan
+
+1. successful entry of pin number.
+2. unsuccessful operation due to wrong pin number entered.
+3. successful selection of withdrawal option.
+4. unsuccessful operation due to amount is not multiple of 100.
+5. successful selection of amount.
+6. successful withdrawal operation.
+7. unsuccessful withdrawal operation due to amount greater than possible balance.
+8. unsuccessful due to lack of amount in ATM.
+9. unsuccessful due to amount greater than the day limit.
+10. successful operation of deposit.
+11. unsuccessful due to amount less than zero.
+
+
 # OUTPUT
 ![1](https://user-images.githubusercontent.com/68550769/153584327-7f46c61e-e4ff-48a9-9dbe-cb647a88e96c.jpg)
 ![2](https://user-images.githubusercontent.com/68550769/153584368-37d0e9f6-014e-446a-9963-bae69379e7b4.jpg)

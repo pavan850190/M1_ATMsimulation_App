@@ -12,3 +12,9 @@
 
 ## LOW LEVEL UML
 ![uml low level](https://user-images.githubusercontent.com/68550769/153440484-d1b58fc4-0cdb-4c55-a168-a2d60accafbb.png)
+
+## Best method followed
+- Used functions to decrease dependency on main function
+- Used loops to exicute the commands one bye one and follow the flow.
+- Printf statements have been placed only wherever necessary to avoid confusions
+- Created header file so that the fuctions can be used else where ever required without any difficulty

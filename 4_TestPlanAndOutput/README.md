@@ -1,4 +1,4 @@
-# Test Plan
+# Test Plan.
 
 1. successful entry of pin number.
 2. unsuccessful operation due to wrong pin number entered.

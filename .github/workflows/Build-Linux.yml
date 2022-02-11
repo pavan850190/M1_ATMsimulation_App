@@ -1,0 +1,17 @@
+name: Build-Linux
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make
+      run: make /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation

@@ -1,4 +1,4 @@
-PROJ_NAME = ATMsimulation
+PROJ_NAME = atm
 SRC = src/atm.c\
 src/pinc.c\
 src/withdraw.c\

@@ -1,5 +1,8 @@
 PROJ_NAME = ATMsimulation
-SRC = atm.c
+SRC = src/atm.c\
+src/pinc.c\
+src/withdraw.c\
+src/deposit.c\
 
 ifdef OS
    RM = del /q

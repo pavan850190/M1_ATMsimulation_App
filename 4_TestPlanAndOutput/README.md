@@ -1,7 +1,7 @@
 # Test Plan.
 
 1. successful entry of pin number.
-2. unsuccessful operation due to wrong pin number entered.
+2. unsuccessful operation due to wrong pin number enterde.
 3. successful selection of withdrawal option.
 4. unsuccessful operation due to amount is not multiple of 100.
 5. successful selection of amount.

@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make Build
+    - name: make
       run: /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation

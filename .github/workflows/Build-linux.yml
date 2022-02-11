@@ -1,5 +1,5 @@
 
-name: linux-c
+name: Build-linux
 
 on:
   push:

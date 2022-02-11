@@ -9,6 +9,7 @@
        if(amountDeposit > 0)       // amount must be greater than 0
        {
        balance = balance + amountDeposit;  // adding amount for orgingal balance
+       printf("Successfully Deposited Money \n");
        printf("Your Current  Balance is %d \n",balance);
        }
        else{

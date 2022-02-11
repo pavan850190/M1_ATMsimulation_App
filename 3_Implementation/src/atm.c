@@ -22,7 +22,7 @@ int main(){
    while(transaction == 1)      
    {
    int option;                     // used for selecting for option
-   printf("************ WELCOM TO ATM SERVICE ************\n");
+   printf("************* WELCOM TO ATM SERVICE *************\n");
    printf("Please Select One of The Option \n");      // options that are in display
    printf("###############################\n");
    printf("Press 1 to CHECK BALANCE \n");

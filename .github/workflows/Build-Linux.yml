@@ -1,4 +1,5 @@
-name: Build-linux
+name: Build-Linux
+
 on:
   push:
     branches: [ main ]
@@ -12,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make 
+    - name: make
       run: make run /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation

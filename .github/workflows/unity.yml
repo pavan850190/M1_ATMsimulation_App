@@ -1,0 +1,17 @@
+name: Unit Testing - Unity
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make build_test
+      run: make /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation

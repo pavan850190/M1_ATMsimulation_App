@@ -17,4 +17,3 @@ jobs:
       run: sudo apt-get install cppcheck    
     - name: Static Analysis
       run: cppcheck --enable=all /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation
-      

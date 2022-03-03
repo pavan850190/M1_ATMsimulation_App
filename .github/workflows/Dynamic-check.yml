@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on:  apt-get update ubuntu-latest
+    runs-on:  apt-get update ubuntu-2018
 
     steps:
     - uses: actions/checkout@v2

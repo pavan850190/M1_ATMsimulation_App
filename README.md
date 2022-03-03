@@ -5,12 +5,12 @@
 
 | Build quality | Static Check | Dynamic Check | Unity test | Linux Build | Codacy |
 | ------------- | ------------ | ------------- | ---------- | ----------- | ------ |
-| [![C/C++ CI](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml) | [![Dynamiccheck](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Dynamic-check.yml) | [![Unit Testing - Unity](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml) | [![Build-Linux](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml) |  |
+| [![C/C++ CI](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml) | [![Dynamiccheck](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Dynamic-check.yml) | [![Unit Testing - Unity](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml) | [![Build-Linux](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5a59aef4341742a9bd8a2e2e4bb65029)](https://www.codacy.com/gh/pavan850190/M1_ATMsimulation_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavan850190/M1_ATMsimulation_App&amp;utm_campaign=Badge_Grade) |
 
 # Integrated Tools to GitHub
 ## Codiga
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5a59aef4341742a9bd8a2e2e4bb65029)](https://www.codacy.com/gh/pavan850190/M1_ATMsimulation_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavan850190/M1_ATMsimulation_App&amp;utm_campaign=Badge_Grade)
+
 
 # Input
 

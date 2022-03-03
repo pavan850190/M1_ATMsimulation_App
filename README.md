@@ -10,7 +10,6 @@
 # Integrated Tools to GitHub
 ## Codiga
 
-![codeiga](https://user-images.githubusercontent.com/68550769/153591820-0cc5a53d-2ff3-48cb-bd63-c7c8927c5aa6.jpg)
 
 # Input
 

@@ -9,10 +9,11 @@ on:
 jobs:
   build:
 
-    runs-on: apt-get update && apt-get install ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
+    - name: apt-get update && apt-get install
     - uses: actions/checkout@v2
     - name: apt install dependency
       run: |

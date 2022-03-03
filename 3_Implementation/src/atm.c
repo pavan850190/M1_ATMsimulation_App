@@ -7,7 +7,7 @@
 int main(){
    int balance = 10000;  // declartion of veriables and assigning default 10000 balance
    int pin2;              // for pin of atm card
-   int transaction = 1;      
+   int transaction = 1;      // 
    int moneyDeposit(int balance);    //declaring functions
    int moneyWithdraw(int balance);
    int pinChange(int pin2);

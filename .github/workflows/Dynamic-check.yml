@@ -17,7 +17,8 @@ jobs:
     - name: apt install dependency
       run: |
         sudo apt-get -y install valgrind
+        apt-get install -y libsystemd-dev
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev   
-        --fix-missing
+      
     - name: Dynamic Analysis
       run: make  /home/runner/work/M1_ATMsimulation_App/M1_ATMsimulation_App/3_Implementation

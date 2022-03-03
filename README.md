@@ -5,6 +5,7 @@
 
 | Build quality | Static Check | Unity test | Linux Build |
 | ------------- | ------------ | ---------- | ----------- |
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55cae12a956c48e48c61013f7a251857)](https://app.codacy.com/gh/pavan850190/M1_ATMsimulation_App?utm_source=github.com&utm_medium=referral&utm_content=pavan850190/M1_ATMsimulation_App&utm_campaign=Badge_Grade_Settings)
 | [![C/C++ CI](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/c-cpp.yml) | [![Cppcheck](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Static-check.yml) | [![Unit Testing - Unity](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/unity.yml) | [![Build-Linux](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/pavan850190/M1_ATMsimulation_App/actions/workflows/Build-Linux.yml) |
 
 # Integrated Tools to GitHub

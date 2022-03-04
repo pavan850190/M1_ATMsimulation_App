@@ -3,7 +3,6 @@
 #include"withdraw.c"  // header file of withdraw
 #include"pinc.c"     // header file for newpin
 
-
 int main(){
    int balance = 10000;  // declartion of veriables and assigning default 10000 balance
    int pin2;              // for pin of atm card
